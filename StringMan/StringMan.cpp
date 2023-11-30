@@ -20,7 +20,7 @@ int main()
     }
     */
 
-    int pos = name.find("Butters");
+    int pos = name.find("Butters");\
     int len = name.length();
     cout << "Butters is located at " << pos << endl;
     string lname;
